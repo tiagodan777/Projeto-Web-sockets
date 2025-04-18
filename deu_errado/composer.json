@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Api\\Websocket\\": "chat/"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+}
